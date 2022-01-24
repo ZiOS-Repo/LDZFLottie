@@ -264,14 +264,14 @@
 		1EC036BA8F350225DE9F11D9196D6A90 /* LDZFLottie-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LDZFLottie-prefix.pch"; sourceTree = "<group>"; };
 		247E778DE82C5E1CCDC0EF8F1B15532F /* ConstraintInsets.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintInsets.swift; path = Source/ConstraintInsets.swift; sourceTree = "<group>"; };
 		2604D0E384A791BE9AE476878276CDB6 /* Group.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Group.swift; path = "lottie-swift/src/Private/Model/ShapeItems/Group.swift"; sourceTree = "<group>"; };
-		26C8D8AFFBEEB6A6E719107179E6E1BF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		26C8D8AFFBEEB6A6E719107179E6E1BF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2817266CF2E42BE60B8F8AC18CAA9A2D /* LDZFLottie.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LDZFLottie.release.xcconfig; sourceTree = "<group>"; };
 		28B9B9D4ABD0B47ABB60FC1F8BCA0303 /* AnimationKeypathExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationKeypathExtension.swift; path = "lottie-swift/src/Private/Utility/Extensions/AnimationKeypathExtension.swift"; sourceTree = "<group>"; };
 		2B1FDBE83EEE14E9AC308BD8EC55B09D /* TextLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextLayer.swift; path = "lottie-swift/src/Private/LayerContainers/Utility/TextLayer.swift"; sourceTree = "<group>"; };
 		2C0B75FD61C6FA8F10CA4DAE66632559 /* ConstraintRelation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintRelation.swift; path = Source/ConstraintRelation.swift; sourceTree = "<group>"; };
 		2D6530436149109AD5015826B5B5BC2A /* EllipseNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EllipseNode.swift; path = "lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/EllipseNode.swift"; sourceTree = "<group>"; };
 		2ED6F0BF7CB12B3C2C7A35213665BDFB /* Pods-LDZFLottie_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-LDZFLottie_Tests"; path = Pods_LDZFLottie_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		30EBECE10441CB35B63A52A4A9533C9D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		30EBECE10441CB35B63A52A4A9533C9D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		31D1931EC0A371BF80B65AB41CAA58D0 /* ConstraintView+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ConstraintView+Extensions.swift"; path = "Source/ConstraintView+Extensions.swift"; sourceTree = "<group>"; };
 		33D203216DE406981F710B7AC075F556 /* ValueContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ValueContainer.swift; path = "lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueContainer.swift"; sourceTree = "<group>"; };
 		33E171B0DA7871D20520B51CA1582997 /* AnimationKeypath.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationKeypath.swift; path = "lottie-swift/src/Public/DynamicProperties/AnimationKeypath.swift"; sourceTree = "<group>"; };
@@ -328,7 +328,7 @@
 		690BDDB3C00B4F1E45531EB8F0ACF18D /* BezierPath.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BezierPath.swift; path = "lottie-swift/src/Private/Utility/Primitives/BezierPath.swift"; sourceTree = "<group>"; };
 		6B5E318F9A89D0C401FDB152C33CB368 /* SnapKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SnapKit.debug.xcconfig; sourceTree = "<group>"; };
 		6B69E8FF1CEC4AD06811207FE66E18DC /* PreCompLayerModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PreCompLayerModel.swift; path = "lottie-swift/src/Private/Model/Layers/PreCompLayerModel.swift"; sourceTree = "<group>"; };
-		6BF72AB5BB4B48C5B2014C721C5269EA /* LDZFLottie.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LDZFLottie.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6BF72AB5BB4B48C5B2014C721C5269EA /* LDZFLottie.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LDZFLottie.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		6E193986D90BF14A743530FA3BD6D55D /* SizeValueProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SizeValueProvider.swift; path = "lottie-swift/src/Public/DynamicProperties/ValueProviders/SizeValueProvider.swift"; sourceTree = "<group>"; };
 		6EA376622A370A69301ECA92F45C18BC /* lottie-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "lottie-ios.release.xcconfig"; sourceTree = "<group>"; };
 		710668A5E12DFBCFE2E746099FC10CD5 /* ConstraintOffsetTarget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintOffsetTarget.swift; path = Source/ConstraintOffsetTarget.swift; sourceTree = "<group>"; };
@@ -376,7 +376,7 @@
 		9C3EC297E8B601DFFA0BDC7200461552 /* LdzfLottieAnimatedSwitch.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LdzfLottieAnimatedSwitch.swift; path = LDZFLottie/Classes/LdzfLottieAnimatedSwitch.swift; sourceTree = "<group>"; };
 		9CAF89A446291AEBA7FE5F3D41E61EDD /* Pods-LDZFLottie_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LDZFLottie_Tests.modulemap"; sourceTree = "<group>"; };
 		9D291E88EEBD43EA877A1EC8F46823A6 /* MaskContainerLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MaskContainerLayer.swift; path = "lottie-swift/src/Private/LayerContainers/CompLayers/MaskContainerLayer.swift"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D9E59E68C90DDAB7048EE0ACCE2FCD2 /* BundleImageProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BundleImageProvider.swift; path = "lottie-swift/src/Public/iOS/BundleImageProvider.swift"; sourceTree = "<group>"; };
 		A0982B14707AA8EFE7AC7483EBA05D83 /* CompositionLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CompositionLayer.swift; path = "lottie-swift/src/Private/LayerContainers/CompLayers/CompositionLayer.swift"; sourceTree = "<group>"; };
 		A1D4B15C7AFE76C97097D29DE8C8B1CE /* AnimationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationView.swift; path = "lottie-swift/src/Public/Animation/AnimationView.swift"; sourceTree = "<group>"; };
@@ -563,7 +563,6 @@
 				DA6C4E51A0613E5DADEA449D494013F8 /* UILayoutSupport+Extensions.swift */,
 				8FEF8EC07303AD7CBA1AD5C6CB9CEF5F /* Support Files */,
 			);
-			name = SnapKit;
 			path = SnapKit;
 			sourceTree = "<group>";
 		};
@@ -776,7 +775,6 @@
 				3AE949350185BDF4249064CC84E6BC00 /* VectorsExtensions.swift */,
 				23E2422C42D2E9A0534B61B8643D1703 /* Support Files */,
 			);
-			name = "lottie-ios";
 			path = "lottie-ios";
 			sourceTree = "<group>";
 		};
@@ -1693,8 +1691,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
