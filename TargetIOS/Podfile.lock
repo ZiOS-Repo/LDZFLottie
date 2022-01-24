@@ -1,0 +1,27 @@
+PODS:
+  - LDZFLottie (0.1.0):
+    - lottie-ios
+    - SnapKit
+  - lottie-ios (3.2.3)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - LDZFLottie (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - SnapKit
+
+EXTERNAL SOURCES:
+  LDZFLottie:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LDZFLottie: 00b6540a1df251f158f081a458c1e2e46dda3df5
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 4485fbaff019630b1459a5f845cbeb70e3ec66c3
+
+COCOAPODS: 1.11.2

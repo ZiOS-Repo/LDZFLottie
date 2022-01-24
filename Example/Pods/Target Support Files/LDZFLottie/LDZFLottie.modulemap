@@ -1,0 +1,6 @@
+framework module LDZFLottie {
+  umbrella header "LDZFLottie-umbrella.h"
+
+  export *
+  module * { export * }
+}
